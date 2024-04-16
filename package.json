@@ -1,0 +1,14 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "Trying react for the first time",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Somdev Das",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
